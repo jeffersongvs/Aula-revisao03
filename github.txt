@@ -2,3 +2,8 @@ AULA REVISÃO 03
 
 GIT HUB
 
+COMANDOS
+
+git add .
+git commit -m "mensagem"
+git push
